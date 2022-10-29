@@ -76,18 +76,15 @@ body {
 @media screen and (max-width: 1000px) {
   .logo {
     padding-top: 15vh;
-    color: red;
   }
 }
 @media screen and (max-width: 768px) {
   .logo {
     padding-top: 15vh;
-    color: yellow;
   }
 }
 @media screen and (max-width: 480px) {
   .logo {
     padding-top: 15vh;
-    color: blue;
   }
 }
